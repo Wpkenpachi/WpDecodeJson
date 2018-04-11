@@ -1,0 +1,24 @@
+{
+    "name": "wpkenpachi/wpdecodejson",
+    "description": "Helper para decodeificacao de arrays que contenham JSON em atributos e sub-atributos",
+    "keywords": [
+        "json",
+        "decode",
+        "json decode",
+        "decode json",
+        "decode json string",
+        "json string",
+        "string json decode",
+        "json string decode"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wpkenpachi",
+            "email": "angelportinari17@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
