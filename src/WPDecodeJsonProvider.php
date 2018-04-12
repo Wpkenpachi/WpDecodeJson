@@ -23,6 +23,6 @@ class WPDecodeJsonProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app()->make('Wpkenpachi\WpDecodeJson\DecodeJson');
+        $this->app->make('Wpkenpachi\WpDecodeJson\DecodeJson');
     }
 }
